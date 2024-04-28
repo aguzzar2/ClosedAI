@@ -1,3 +1,11 @@
-# ClosedAI
+
+# ClosedAI - 16*TheDetail
 Alex and Anthony's Super Fun Project Time
-UNDO
+
+## GitCommands:
+
+- To push your branch.
+```
+git push -u origin <branch>
+```
+
