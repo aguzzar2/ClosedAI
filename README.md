@@ -2,6 +2,7 @@
 # ClosedAI - 16*TheDetail
 Alex and Anthony's Super Fun Project Time
 - We work on our own branches!
+- If you want to collab with us, shoot me an email at agguzzy91@gmail.com
 
 ## Git Commands:
 
